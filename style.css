@@ -1,0 +1,19 @@
+header {
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.cat {
+    position: absolute;
+    left: 150px;
+    top: 1600px;
+}
+
+:hover {
+    left: 10px;
+}
